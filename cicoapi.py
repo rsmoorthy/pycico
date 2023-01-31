@@ -33,7 +33,7 @@ The steps are as follows:
 
     Follow the code above to login. After that,
 
-    report = cicoapi.get_report(session, "Samyama Jan 2023")
+    report = cicoapi.get_report(session, "Checkin API for Samyama Jan 2023")
     # records_to_checkin = [ {"name": "Moorthy RS", "mobile": "9980018517"}, 
                           {"name": "Murali", "mobile": "1234567890"} ]
 
