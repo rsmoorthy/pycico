@@ -11,3 +11,9 @@ The steps are as follows:
     c. IMPORTANT: If you want to write any field, set Inline Editable to Yes and ALWAYS set the roles who can actually edit. (Properties Tab)
 
 Please see the documentation inside cicoapi.py for writing code
+
+## Limitations
+
+* This method can only be used, if all you need is **to update the field values. And no other action to trigger**
+* Some error handling in this file could be better. (As of now, it is a kitchen sink code, but it works for most use cases)
+
