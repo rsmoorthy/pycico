@@ -16,4 +16,5 @@ Please see the documentation inside cicoapi.py for writing code
 
 * This method can only be used, if all you need is **to update the field values. And no other action to trigger**
 * Some error handling in this file could be better. (As of now, it is a kitchen sink code, but it works for most use cases)
+* Please ensure all the field values are properly validated before writing data
 
